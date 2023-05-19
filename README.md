@@ -39,6 +39,18 @@ Mapping stratigraphic unit classifications for a series of sediment cores to the
 <br></br>
 <br></br>
 
+<img width="796" alt="cross_plots" src="https://github.com/ariellewoods/Lake-Junin-Data-Viz/assets/133836011/cc22dd65-e781-4e75-a364-3fa68b11382b">
+
+Differences in sediment content and correlation between oxygen and carbon isotopes can be used to infer changes in lake level and hydrology.
+
+<br></br>
+<br></br>
+
+
+
+
+
+
 
 
 
