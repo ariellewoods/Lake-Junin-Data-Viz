@@ -29,10 +29,15 @@ This figure showcases select proxy data from Lake Junin, along with several impo
 
 Sediment core images can be imported into R and plotted alongside corresponding proxy data to interpret changes in sedimentology.
 
+<br></br>
+<br></br>
 
 <img width="699" alt="Core_strat_units" src="https://github.com/ariellewoods/Lake-Junin-Data-Viz/assets/133836011/b5341811-b8fd-4ee3-9d61-5ce6ec3bc280">
 
 Mapping stratigraphic unit classifications to their water depth and position in the lake.
+
+<br></br>
+<br></br>
 
 
 
