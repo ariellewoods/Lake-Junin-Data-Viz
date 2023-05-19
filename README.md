@@ -16,3 +16,7 @@ This map was generated using QGIS, an open source GIS application.
 <br></br>
 <br></br>
 
+
+<img width="683" alt="NC_Figure" src="https://github.com/ariellewoods/Lake-Junin-Data-Viz/assets/133836011/5250913d-3683-49bf-beee-03f6de822748">
+
+This figure showcases our proxy data from Lake Junin, along with several other important climatic records from tropical and polar regions, highlighting relevant climate teleconnections and the impact of abrupt temperature changes on monsoon strength in the Andes.
