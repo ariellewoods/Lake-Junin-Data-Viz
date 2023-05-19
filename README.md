@@ -22,9 +22,14 @@ This map was generated using QGIS, an open source GIS application.
 This figure showcases select proxy data from Lake Junin, along with several important climatic records from tropical and polar regions, highlighting the impact of abrupt temperature changes in Greenland on monsoon strength in the Andes during the last 50,000 years.
 
 
-
+<br></br>
+<br></br>
 
 
 ![Rplot17](https://github.com/ariellewoods/Lake-Junin-Data-Viz/assets/133836011/8d6e927c-8a29-4461-a6c4-22060d035b53)
 
-![Rplot04](https://github.com/ariellewoods/Lake-Junin-Data-Viz/assets/133836011/4b402d45-e1d1-4eb2-8dd7-27496baca346)
+Sediment core images can be imported into R and plotted alongside corresponding proxy data to interpret changes in sedimentology.
+
+
+
+
